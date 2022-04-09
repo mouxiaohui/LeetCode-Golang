@@ -27,6 +27,10 @@ func rob(nums []int) int {
 		return nums[0]
 	}
 
+	if len(nums) == 2 {
+		return max(nums[0], nums[1])
+	}
+
 	// 前两个最优解
 	opt1 := nums[0]
 	opt2 := max(nums[0], nums[1])
