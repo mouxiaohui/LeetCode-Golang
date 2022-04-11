@@ -20,6 +20,7 @@
     <li>2. <a href="./medium/Add_Two_Numbers/Add_Two_Numbers.go">两数相加(Add Two Numbers)</a></li>
     <li>198. <a href="./medium/House_Robber/House_Robber.go">打家劫舍(House Robber)</a></li>
     <li>213. <a href="./medium/House_Robber_2/House_Robber_2.go">打家劫舍 II(House Robber II)</a></li>
+    <li>337. <a href="./medium/House_Robber_3/House_Robber_3.go">打家劫舍 III(House Robber III)</a></li>
 </ul>
 </details>
 
