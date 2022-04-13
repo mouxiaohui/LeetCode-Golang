@@ -22,6 +22,7 @@
     <li>198. <a href="./medium/House_Robber/House_Robber.go">打家劫舍(House Robber)</a></li>
     <li>213. <a href="./medium/House_Robber_2/House_Robber_2.go">打家劫舍 II(House Robber II)</a></li>
     <li>337. <a href="./medium/House_Robber_3/House_Robber_3.go">打家劫舍 III(House Robber III)</a></li>
+    <li>380. <a href="./medium/Insert_Delete_GetRandom/Insert_Delete_GetRandom.go">O(1) 时间插入、删除和获取随机元素(Insert Delete GetRandom O(1))</a></li>
 </ul>
 </details>
 
