@@ -9,6 +9,7 @@
 <summary style="cursor: pointer;user-select: none;">简单 (Easy)</summary>
 <ul>
     <li>1. <a href="./easy/Two_Sum/Two_Sum.go">两数之和(Two Sum)</a></li>
+    <li>27. <a href="./easy/Remove_Element/Remove_Element.go">移除元素(Remove Element)</a></li>
     <li>35. <a href="./easy/Search_Insert_Position/Search_Insert_Position.go">搜索插入位置(Search Insert Position)</a></li>
     <li>806. <a href="./easy/Number_of_Lines_To_Write_String/Number_of_Lines_To_Write_String.go">写字符串需要的行数(Number of Lines To Write String)</a></li>
 </ul>
