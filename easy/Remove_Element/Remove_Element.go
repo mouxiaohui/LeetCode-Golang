@@ -43,7 +43,6 @@ for (int i = 0; i < len; i++) {
 func removeElement(nums []int, val int) int {
 	l := len(nums) - 1
 	i := 0
-	count := 0
 	for {
 		if i > l {
 			break
@@ -51,11 +50,10 @@ func removeElement(nums []int, val int) int {
 		if nums[i] == val {
 			nums[i] = nums[l]
 			l -= 1
-			count += 1
 		} else {
 			i += 1
 		}
 	}
 
-	return len(nums) - count
+	return l + 1
 }
