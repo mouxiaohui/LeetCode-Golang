@@ -25,6 +25,7 @@
     <li>2. <a href="./medium/Add_Two_Numbers/Add_Two_Numbers.go">两数相加(Add Two Numbers)</a></li>
     <li>3. <a href="./medium/Longest_Substring_Without_Repeating_Characters/Longest_Substring_Without_Repeating_Characters.go">无重复字符的最长子串(Longest Substring Without Repeating Characters)</a></li>
     <li>22. <a href="./medium/Generate_Parentheses/Generate_Parentheses.go">括号生成(Generate Parentheses)</a></li>
+    <li>48. <a href="./medium/Rotate_Image/Rotate_Image.go">旋转图像(Rotate Image)</a></li>
     <li>198. <a href="./medium/House_Robber/House_Robber.go">打家劫舍(House Robber)</a></li>
     <li>213. <a href="./medium/House_Robber_2/House_Robber_2.go">打家劫舍 II(House Robber II)</a></li>
     <li>337. <a href="./medium/House_Robber_3/House_Robber_3.go">打家劫舍 III(House Robber III)</a></li>
