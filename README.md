@@ -14,6 +14,7 @@
     <li>26. <a href="./easy/Remove_Duplicates_from_Sorted_Array/Remove_Duplicates_from_Sorted_Array.go">删除有序数组中的重复项(Remove Duplicates from Sorted Array)</a></li>
     <li>27. <a href="./easy/Remove_Element/Remove_Element.go">移除元素(Remove Element)</a></li>
     <li>35. <a href="./easy/Search_Insert_Position/Search_Insert_Position.go">搜索插入位置(Search Insert Position)</a></li>
+    <li>53. <a href="./easy/Maximum_Subarray/Maximum_Subarray.go">最大子数组和(Maximum Subarray)</a></li>
     <li>806. <a href="./easy/Number_of_Lines_To_Write_String/Number_of_Lines_To_Write_String.go">写字符串需要的行数(Number of Lines To Write String)</a></li>
 </ul>
 </details>
